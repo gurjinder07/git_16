@@ -1,2 +1,2 @@
 # git_16
-"For learning Purpose"
+"For learning Purpose, and modifying it."
